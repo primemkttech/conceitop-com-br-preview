@@ -1,0 +1,33 @@
+
+
+/* Gerado por scripts/build-assets.py: não editar à mão */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/cairo.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Share Tech';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/share-tech.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Michroma';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/michroma.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/fa-solid.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/fa-brands.woff2') format('woff2');
+}
